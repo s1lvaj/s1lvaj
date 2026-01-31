@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+My name is João, a portuguese software developer.
+
+I mostly work on (...)
+
+This github profile (...)
+
+## Tools & Tech
+
+- (...)
+
 <!--
 **s1lvaj/s1lvaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

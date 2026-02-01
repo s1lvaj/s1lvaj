@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hello there
 
 My name is João, a portuguese software developer.
 
@@ -6,9 +6,18 @@ I mostly work on (...)
 
 This github profile (...)
 
-## Tools & Tech
+## 🔭 Tools & Tech
 
-- (...)
+- **Programming Languages:** Python, SQL, R, C++, HTML, BASH.
+- **Cloud Computing:** Microsoft Azure, Databricks, PySpark.
+- **Operating Systems:** Windows, Linux (Ubuntu, Fedora).
+
+## 💬 Spoken Languages
+
+- **Portuguese:** Native.
+- **English:** Full Professional Proficiency.
+- **Spanish:** Limited Working Proficiency.
+- **German:** Beginner Level.
 
 <!--
 **s1lvaj/s1lvaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

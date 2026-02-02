@@ -1,10 +1,6 @@
 ## 👋 Hello there
 
-My name is João, a portuguese software developer.
-
-I mostly work on (...)
-
-This github profile (...)
+My name is João, I'm a portuguese software developer. This github profile contains projects related to anything I feel like learning on my free time, while building scalable and aesthetic tools and applications.
 
 ## 🔭 Tools & Tech
 

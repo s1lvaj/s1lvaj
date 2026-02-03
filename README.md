@@ -3,7 +3,7 @@
 My name is João, I'm a portuguese software developer. This github profile contains projects related to anything I feel like learning on my free time, that being mainly scalable tools for:
 - learning and entertainment;
 - data ownership, safety and engineering;
-- physical simulations and visualization;
+- physics simulations and visualization;
 - and much more...
 
 ## 🔭 Tools & Tech

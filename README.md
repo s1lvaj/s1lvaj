@@ -1,10 +1,10 @@
 ## 👋 Hello there
 
-My name is João, I'm a portuguese software developer. This github profile contains projects related to anything I feel like learning on my free time, while building scalable and aesthetic tools and applications. For instance:
-- Methods to take ownership of digital tools and systems.
-- Data safety and engineering.
-- Physical simulations and visualization tools.
-- In general, tools to support learning and entertainment, for technology is a **TOOL** that must be used.
+My name is João, I'm a portuguese software developer. This github profile contains projects related to anything I feel like learning on my free time, that being mainly scalable tools for:
+- learning and entertainment;
+- data ownership, safety and engineering;
+- physical simulations and visualization;
+- and much more...
 
 ## 🔭 Tools & Tech
 

@@ -1,6 +1,6 @@
 ## 👋 Hello there
 
-My name is João, I'm a portuguese software developer. This github profile contains scripts that I find useful for my daily life and projects related to anything that I feel like learning on my free time, that being mainly scalable tools for:
+My name is João, I'm a portuguese engineer. This github profile contains scripts that I find useful for my daily life and projects related to anything that I feel like learning on my free time, that being mainly scalable tools for:
 - learning and entertainment;
 - data ownership, safety and engineering;
 - physics simulations and visualization;
@@ -8,7 +8,7 @@ My name is João, I'm a portuguese software developer. This github profile conta
 
 Check out my pinned repositories below to have a feel for what I do.
 
-## 🔭 Tools & Tech
+## 🔭 Software Tools
 
 - **Programming Languages:** Python, SQL, R, C++, HTML, BASH.
 - **Cloud Computing:** Microsoft Azure, Databricks, PySpark.

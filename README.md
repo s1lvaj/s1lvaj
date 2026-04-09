@@ -12,7 +12,7 @@ Check out my pinned repositories below to have a feel for what I do.
 
 - **Programming Languages:** Python, SQL, R, C++, HTML, BASH.
 - **Cloud Computing:** Microsoft Azure, Databricks, PySpark.
-- **Operating Systems:** Windows, Linux (Ubuntu, Fedora).
+- **Operating Systems:** Windows, MacOS, Linux (Ubuntu, Fedora).
 
 ## 💬 Spoken Languages
 

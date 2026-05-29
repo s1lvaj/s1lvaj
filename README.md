@@ -8,19 +8,6 @@ My name is João, I'm a portuguese engineer. This github profile contains script
 
 Check out my pinned repositories below to have a feel for what I do.
 
-## 🔭 Software Tools
-
-- **Programming Languages:** Python, SQL, R, C++, HTML, BASH.
-- **Cloud Computing:** Microsoft Azure, Databricks, PySpark.
-- **Operating Systems:** Windows, MacOS, Linux (Ubuntu, Fedora).
-
-## 💬 Spoken Languages
-
-- **Portuguese:** Native.
-- **English:** Full Professional Proficiency.
-- **Spanish:** Limited Working Proficiency.
-- **German:** Beginner Level.
-
 <!--
 **s1lvaj/s1lvaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

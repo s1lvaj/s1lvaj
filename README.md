@@ -1,12 +1,26 @@
 ## 👋 Hello there
 
-My name is João, I'm a portuguese engineer. This GitHub profile contains both (i) scripts that I find useful for my daily life and (ii) projects related to anything that I'm working on or feel like learning on my free time, that being mainly scalable tools for:
+My name is João, I'm a portuguese engineer with 3+ years of experience as a software developer. This GitHub profile contains both (i) scripts that I find useful for my daily life and (ii) projects related to anything that I'm working on or feel like learning on my free time, that being mainly scalable tools for:
 - physics simulations and visualization;
 - data ownership, safety and engineering;
 - learning and entertainment;
 - and more...
 
 Check out my pinned repositories below to have a feel for what I do.
+
+## 🔭 Software Tools
+
+- **Programming Languages:** Python, MySQL, R, C++, HTML, PowerShell, BASH.
+- **Cloud Computing:** Microsoft Azure, Databricks, PySpark.
+- **Operating Systems:** Windows, MacOS, Linux (Ubuntu, Fedora).
+- **Other Tools:** Wireshark, Docker Containers, Jupyter Notebook, Jira.
+
+## 💬 Spoken Languages
+
+- **Portuguese:** Native.
+- **English:** Full Professional Proficiency.
+- **Spanish:** Limited Working Proficiency.
+- **German:** Beginner Level.
 
 <!--
 **s1lvaj/s1lvaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

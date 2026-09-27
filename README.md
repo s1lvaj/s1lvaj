@@ -12,7 +12,7 @@ Check out my pinned repositories below to have a feel for what I do.
 
 - **Programming Languages:** Python, MySQL, R, C++, HTML, PowerShell, BASH.
 - **Cloud Computing:** Microsoft Azure, Databricks, PySpark.
-- **Operating Systems:** Windows, MacOS, Linux (Ubuntu, Fedora).
+- **Operating Systems:** Windows, MacOS, Linux (Ubuntu, Fedora, Kali).
 - **Other Tools:** Wireshark, Docker Containers, Jupyter Notebook, ROS, Jira.
 
 ## 💬 Spoken Languages
